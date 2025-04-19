@@ -9,3 +9,12 @@ Pixel Robo Dodge, küçük bir robotu kontrol ederek düşen engellerden kaçmay
 
 🔗 [Pixel Robo Dodge - Google Play'de Görüntüle](https://play.google.com/store/apps/details?id=tr.com.akifsen.pixelrobododge&hl=tr) 
 ---
+# 🧠 Memory Spark
+
+**Memory Spark**, reflekslerini ve hafızanı sınayan retro tarzda eğlenceli bir mini oyundur.  
+Renkli kutulara sırayla dokun, diziyi doğru hatırla ve yeni seviyelere ulaş!
+
+🔗 [Detaylar için tıklayın](https://akifsen.github.io/memoryspark/) 
+
+🔗 [Memory Spark - Google Play'de Görüntüle](https://play.google.com/store/apps/details?id=tr.com.akifsen.memoryspark)
+---
